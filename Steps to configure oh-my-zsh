@@ -1,5 +1,4 @@
-
-### Steps to make zsh the default shell and install oh-my-zsh:
+Steps to make zsh the default shell and install oh-my-zsh:
 
 1. Check that you have zsh by running zsh --version
 2. Install oh-my-zsh by running `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
