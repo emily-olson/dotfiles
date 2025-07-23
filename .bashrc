@@ -1,0 +1,1 @@
+export CLASSPATH=/Users/emily/Desktop/cs15/*:.
