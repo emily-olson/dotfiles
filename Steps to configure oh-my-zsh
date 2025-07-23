@@ -1,0 +1,7 @@
+
+### Steps to make zsh the default shell and install oh-my-zsh:
+
+1. Check that you have zsh by running zsh --version
+2. Install oh-my-zsh by running `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+3. Install additional plugins: zoxide (curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh), auto-suggestions (git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions)
+4. Pull the config file from this repo.
